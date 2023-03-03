@@ -1,0 +1,7 @@
+torch==1.10.2
+jupyter==1.0.0
+numpy==1.22.2
+h5py==3.6.0
+pandas==1.4.1
+matplotlib==3.5.1
+tables==3.7.0
